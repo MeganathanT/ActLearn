@@ -1,0 +1,3 @@
+This note pad is used for Demo purpose
+Plans to check, the push command works or not
+files needs to be pushed from local repository to central repository (githup)
