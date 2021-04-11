@@ -1,0 +1,7 @@
+This file is created to show branching
+
+Once we create a brancing folder, All the files are available in the folder
+
+Now add the branching file1 also....
+
+use git checkout comment
